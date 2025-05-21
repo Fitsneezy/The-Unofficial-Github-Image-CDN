@@ -1,5 +1,5 @@
 # The Unofficial GitHub Image CDN
-***Aka: Tug CDN***
+***Aka: TugI CDN***
 
 # RULES
 
