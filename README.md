@@ -1,5 +1,5 @@
 # The Unofficial GitHub Image CDN
-***Aka: FitsneezyCDN!***
+***Aka: Tug CDN***
 
 # RULES
 
