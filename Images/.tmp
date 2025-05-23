@@ -1,0 +1,7 @@
+{
+  FICRDA:5/23/2025,
+  FORM:TMP,
+  RES:"Temporary file to create image storage",
+} ifth ("The-Unofficial-Github-Image-CDN/Images/" == true) {
+  prtf >> "Tempfile Created" << break,
+},
